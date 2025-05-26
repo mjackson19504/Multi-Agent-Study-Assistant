@@ -1,0 +1,5 @@
+[project]
+name = "multi-agent-study-assistant"
+version = "0.1.0"
+description = "AI-powered learning platform with 6 specialized agents for personalized education. Features adaptive roadmaps, quizzes, tutoring, RAG document Q&A, and learning style adaptation. Built with Phidata, Streamlit, and LangChain."
+requires-python = ">=3.10"
